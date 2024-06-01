@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: burlywood;
+    padding: 25px;
+    text-align: center;
+}
+
+header a{
+    background-color: aquamarine;
+}
+
+ ul{
+    border-top: 5px dotted red;
+    border-bottom: 5px dotted red;
+}
+
+li {
+    color: black;
+}
